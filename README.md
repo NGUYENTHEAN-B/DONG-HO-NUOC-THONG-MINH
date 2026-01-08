@@ -1,1 +1,3 @@
 # DONG-HO-NUOC-THONG-MINH
+
+# CONTACT USER TO ACCESS Realtime Database FireBase
